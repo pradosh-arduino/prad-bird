@@ -1,0 +1,15 @@
+/home/pradosh/Desktop/prad-bird/bin/Debug/net7.0/prad-bird
+/home/pradosh/Desktop/prad-bird/bin/Debug/net7.0/prad-bird.deps.json
+/home/pradosh/Desktop/prad-bird/bin/Debug/net7.0/prad-bird.runtimeconfig.json
+/home/pradosh/Desktop/prad-bird/bin/Debug/net7.0/prad-bird.dll
+/home/pradosh/Desktop/prad-bird/bin/Debug/net7.0/prad-bird.pdb
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/prad-bird.csproj.AssemblyReference.cache
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/prad-bird.GeneratedMSBuildEditorConfig.editorconfig
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/prad-bird.AssemblyInfoInputs.cache
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/prad-bird.AssemblyInfo.cs
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/prad-bird.csproj.CoreCompileInputs.cache
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/prad-bird.dll
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/refint/prad-bird.dll
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/prad-bird.pdb
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/prad-bird.genruntimeconfig.cache
+/home/pradosh/Desktop/prad-bird/obj/Debug/net7.0/ref/prad-bird.dll
